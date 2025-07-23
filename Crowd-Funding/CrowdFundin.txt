@@ -1,0 +1,5 @@
+
+Title: Gaza
+Details: Palestine
+target: 25000
+time: 7/8/2025 to 7/9/2025
