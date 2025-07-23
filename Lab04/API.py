@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 
 class OpenWeatherMap:
     def __init__(self):
-        self.__API_KEY = "97ec21b1167131032e51009f91dfae8b"
+        self.__API_KEY = ""
 
     def getcurrenttemperature(self, city):
         url = f"http://api.openweathermap.org/data/2.5/weather?q={city}&appid={self.__API_KEY}&units=metric"
